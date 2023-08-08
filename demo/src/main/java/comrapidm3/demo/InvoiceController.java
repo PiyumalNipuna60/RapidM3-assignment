@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@RequestMapping("api/v1/employee")
 public class InvoiceController {
 
     private final InvoiceRepository invoiceRepository;

@@ -1,0 +1,7 @@
+{"data":[
+{"id":1,"InvoiceId":1,"paidAmount":10},{"id":2,"InvoiceId":1,"paidAmount":50},{"id":3,"InvoiceId":1,"paidAmount":40},
+{"id":4,"InvoiceId":2,"paidAmount":100},{"id":5,"InvoiceId":3,"paidAmount":10},{"id":6,"InvoiceId":3,"paidAmount":150},
+{"id":7,"InvoiceId":3,"paidAmount":100},{"id":8,"InvoiceId":4,"paidAmount":300},{"id":9,"InvoiceId":4,"paidAmount":300},
+{"id":10,"InvoiceId":4,"paidAmount":300},{"id":11,"InvoiceId":5,"paidAmount":10},{"id":12,"InvoiceId":5,"paidAmount":10},
+{"id":13,"InvoiceId":5,"paidAmount":10},{"id":14,"InvoiceId":5,"paidAmount":10},{"id":15,"InvoiceId":5,"paidAmount":10},
+{"id":16,"InvoiceId":6,"paidAmount":125}]}
